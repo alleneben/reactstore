@@ -21,7 +21,7 @@ const Navbar = () => {
       <NavWrapper className="navbar navbar-expand-sm navbar-dark px-sm-5">
         <Link to="/">
           {/*<img src={logo} alt="store" className="navbar-brand" />*/}
-          Success & Sons Storeore
+          Success & Sons Online Store
         </Link>
         <ul className="navbar-nav align-items-center brand">
           <li className="nav-items ml-5">
